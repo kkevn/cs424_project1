@@ -1,8 +1,6 @@
 # cs424_project1
 
-by Kevin Kowalski
-
-### Project Information
+## Project Information
 
 This project is the first project for CS 424 at the University of Illinois at Chicago during the Spring 2020 semester.
 
