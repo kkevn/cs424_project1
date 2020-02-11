@@ -10,7 +10,7 @@ More information can be found at the following project link: [https://sites.goog
 
 ## RStudio Code Instructions:
 
-1. Create a new project or load the included files found in '/shiny'
+1. Create a new project or load the included files found in `/shiny`
 2. Ensure that the `litterati_challenge-65_CLEANED.csv` file is in the same directory as the project
 3. Copy or load the code file 'app.R' and click the Run button
 4. If RStudio gives issues, install the necessary packages it may prompt you for
